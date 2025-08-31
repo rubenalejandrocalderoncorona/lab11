@@ -31,6 +31,7 @@ If the installation was successful, you should be able to run the following comm
 
     $ npm --version
     6.1.0
+This is a test
 
 ---
 ## Install Dependencies from `package.json`
